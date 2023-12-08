@@ -1,6 +1,6 @@
 # CheckUpX
 
-Il s'agit d'un script powershell déstiné aux ordinateurs fonctionnant sous Windows afin de faire un diagnostique rapide après une installation fraiches ou non de Windows.
+Il s'agit d'un script powershell avec interface graphique déstiné aux ordinateurs fonctionnant sous Windows afin de faire un diagnostique rapide après une installation fraiches ou non de Windows.
 
 Le script est a lancer sur le bureau de l'utilisateur .
 
